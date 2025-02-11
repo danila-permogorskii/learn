@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "docs/layer1/Introduction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Introduction"
             }
           }
         ]
@@ -171,7 +171,18 @@
   },
   "active": "d5075480568c1b8d",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md"
+    "README.md",
+    "docs/layer1/Introduction.md",
+    "references",
+    "src/poc",
+    "src/patterns",
+    "src/examples",
+    "src",
+    "docs/layer4",
+    "docs/layer3",
+    "docs/layer2",
+    "docs/layer1",
+    "docs",
+    "Untitled.canvas"
   ]
 }
