@@ -169,20 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5075480568c1b8d",
+  "active": "37fdfef7a6f1b2ab",
   "lastOpenFiles": [
+    "CodeExamples/CodeExamples/obj/Debug/net9.0/CodeExamples.csproj.FileListAbsolute.txt",
+    "CodeExamples/CodeExamples/bin/Debug/net9.0/CodeExamples.pdb",
+    "CodeExamples/CodeExamples/obj/Debug/net9.0/ref/CodeExamples.dll",
+    "CodeExamples/CodeExamples/bin/Debug/net9.0/CodeExamples.dll",
+    "CodeExamples/CodeExamples/bin/Debug/net9.0/CodeExamples.runtimeconfig.json",
+    "CodeExamples/CodeExamples/obj/Debug/net9.0/CodeExamples.genruntimeconfig.cache",
+    "CodeExamples/CodeExamples/bin/Debug/net9.0/CodeExamples.deps.json",
+    "CodeExamples/CodeExamples/bin/Debug/net9.0/CodeExamples.exe",
+    "CodeExamples/CodeExamples/obj/Debug/net9.0/apphost.exe",
+    "CodeExamples/CodeExamples/obj/Debug/net9.0/refint/CodeExamples.dll",
+    "CodeExamples/CodeExamples/obj/Debug/net9.0/CodeExamples.pdb",
     "README.md",
     "docs/layer1/Introduction.md",
-    "references",
-    "src/poc",
-    "src/patterns",
-    "src/examples",
-    "src",
-    "docs/layer4",
-    "docs/layer3",
-    "docs/layer2",
-    "docs/layer1",
-    "docs",
     "Untitled.canvas"
   ]
 }
