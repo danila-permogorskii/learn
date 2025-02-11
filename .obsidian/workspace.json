@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,5 +170,8 @@
     }
   },
   "active": "d5075480568c1b8d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md"
+  ]
 }
